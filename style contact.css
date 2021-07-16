@@ -1,0 +1,61 @@
+@charset "utf-8";
+/* CSS Document */
+
+.container{
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	padding-bottom: 40px;
+}
+h1{
+	font-size: 28px;
+    font-family: 'Fira Sans', sans-serif;
+    font-weight: 400;
+}
+.register{
+	background: white;
+	padding: 60px 40px;
+	border-radius: 10px;
+}
+td{
+	padding: 10px;
+}
+input{
+	width: 100%;
+	padding: 10px 0 10px 5px;
+	box-sizing: border-box;
+	outline: none;
+	background: #fdf7b9;
+/*	color: black;*/
+	border: 1px solid white;
+	border-radius: 10px;
+}
+span{
+	float: left;
+	margin-top: -4px;
+	color: white;
+}
+p{
+	color: white;
+	float: left;
+}
+button{
+	width: 100%;
+	padding: 10px 0;
+	background: #fdf7b9;
+	border: #1f1f1f;
+	border-radius: 10px;
+	
+}
+button:hover{
+	background: #1f1f1f;
+	color: white;
+	cursor: pointer;
+}
+footer icon{
+padding-top: 500px;	
+}
+.footer{
+padding-top: 100px;
+}
+

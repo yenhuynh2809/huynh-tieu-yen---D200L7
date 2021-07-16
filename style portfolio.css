@@ -1,0 +1,43 @@
+@charset "utf-8";
+/* CSS Document */
+.branding{
+	height: 1500px;
+	padding-top: 50px;
+}
+h1{
+ font-size: 48px;
+ font-family: 'Fira Sans', sans-serif;
+ font-weight: 300; 
+ text-align: center;
+ padding-top: 40px;
+}
+.gallery {
+	text-align: center;
+}
+.gallery img{
+	margin: 30px;
+	border-radius: 10px;
+}
+footer icon{
+padding-top: 800px;	
+}
+.footer{
+padding-top: 100px;
+}
+.gallery a{
+	padding: 5px 40px;
+	border: 1px solid #1f1f1f;
+	border-radius: 10px;
+	color: #1f1f1f;
+	text-decoration: none;
+	font-weight: 500;
+	transition-duration: 1s;
+	font-size: 16px;
+	
+}
+.gallery a:hover{
+    color: white;
+}
+
+	
+
